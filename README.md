@@ -1,4 +1,4 @@
-## Olá! Eu sou o OtherPaulo, estudante de programação!
+## Olá! Eu sou o OtherPaulo, entusiasta da programação!
 
 - 👨‍💻 Codificando a vida
 - 🌱 Atualmente estudando e trabalhando Angular, Java e C#
