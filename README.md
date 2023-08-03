@@ -1,7 +1,7 @@
 ## Olá! Eu sou o OtherPaulo, estudante de programação!
 
 - 👨‍💻 Codificando a vida
-- 🌱 Atualmente estudando python
+- 🌱 Atualmente estudando e trabalhando Angular, Java e C#
 - 📫 CONTATE-ME: contato.otherpaulo@gmail.com
 - 🏃‍♂️ Siga-me nesta jornada a caminho do FULLSTACK
 
