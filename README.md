@@ -11,17 +11,23 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtherPaulo&layout=compact&langs_count=7&theme=drark"/>
 </div>
   
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Paulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Paulo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-<img align="center" alt="Paulo-Angular" height="30" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"> 
-  <img align="center" alt="Paulo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Paulo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Paulo-Java" height="30" width="40" 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Paulo-Angular" height="30" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"> 
+  <img align="center" alt="Paulo-HTML" height="30" width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Paulo-CSS" height="30" width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Paulo-Js" height="30" width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Paulo-Ts" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Paulo-Java" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Paulo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">         
-  <img align="right" alt="Paulo-programando" height="150" style="border-radius:50px;" src="https://veja.abril.com.br/wp-content/uploads/2016/05/giphy-3-original.gif?quality=70&strip=info&resize=680,453">
+  <img align="center" alt="Paulo-Csharp" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">         
+  <img align="right" alt="Paulo-programando" height="150" style="border-radius:50px;" 
+    src="https://veja.abril.com.br/wp-content/uploads/2016/05/giphy-3-original.gif?quality=70&strip=info&resize=680,453">
 </div>
   
   ##
