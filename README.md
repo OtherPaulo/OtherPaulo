@@ -26,7 +26,7 @@
   <img align="center" alt="Paulo-Csharp" height="30" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Paulo-NodeJs" height="30" width="40"
-    src="https://cdn-icons-png.flaticon.com/512/919/919825.png"
+    src="https://img.icons8.com/?size=512&id=54087&format=png"
   <img align="right" alt="Paulo-programando" height="150" style="border-radius:15px;" 
     src="https://veja.abril.com.br/wp-content/uploads/2016/05/giphy-3-original.gif?quality=70&strip=info&resize=680,453">
 </div>
