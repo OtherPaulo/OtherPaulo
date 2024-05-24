@@ -1,9 +1,8 @@
 ## Olá! Eu sou o Paulo, entusiasta da programação!
 
 - 👨‍💻 Codificando a vida
-- 🌱 Atualmente estudando e trabalhando Angular, Java e C#
-- 📫 CONTATE-ME: paulovinicius356@gmail.com
-- 🏃‍♂️ Siga-me nesta jornada a caminho do FULLSTACK
+- 🏃‍♂️ Desenvolvedor FULLSTACK
+- 📫 CONTATE-ME: paulo.rodrigues@encaixa.ai
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OtherPaulo&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
@@ -35,4 +34,4 @@
   
   </div>
   <a href="https://instagram.com/otherpaulo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:paulovinicius356@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:paulo.rodrigues@encaixa.ai"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
