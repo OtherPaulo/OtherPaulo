@@ -30,12 +30,9 @@
     src="https://veja.abril.com.br/wp-content/uploads/2016/05/giphy-3-original.gif?quality=70&strip=info&resize=680,453">
 </div>
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{OtherPaulo}/count.svg" /></p> 
+<br><p><b>Número de visitas em meu linkedin</b></p>  
+<p><img src="https://profile-counter.glitch.me/{OtherPaulo}/count.svg" /></p> 
 <br>
-</div>
-<div>
   
   ##
   
